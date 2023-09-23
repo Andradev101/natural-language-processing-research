@@ -1,0 +1,31 @@
+EVOLUTION OF HUMAN LANGUAGE
+	[9/21/23]
+	Language is the differential between humans and other animal, that's because we can express our thoughs and emotion through it.
+	That said, anything that is likely to evolve, will evolve within certain conditions and in a certain enviroment with different culture, weather, people, etc.
+	[9/22/23]
+	This evolving process plays a big role when it comes to language, since it is hierarchical, passed through generations and modified by specific events and/or natural causes.
+	
+WHAT IS NLP?
+	[9/21/23]
+	It is a field in Computer Science that deals about giving the computers ability to understand text as same as humans.
+	Therefore, being able to understand context in a certain sentences, or identify and use polysemy, [9/23/23] being able to understand co-reference in texts, and even generate language based on user's input.
+
+NLP TASKS
+	[9/23/23]
+	Understand ambiguitym sarcasm, metaphors, usage exceptions and variations is one of the most important task NLP
+
+APPS THAT USES NLP
+	Google translator
+	ChatGPT
+	Chatbot (Conversational AI)
+	Microsoft Edge's Read Aloud	| https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1?form=MT00IS
+	Siri | Google Assistant | Watsonx (Vitual agents) |  https://www.ibm.com/products/watsonx-assistant
+	Document AI (Google Cloud Solution) 		| https://cloud.google.com/natural-language/
+	Natural Language API (Pretrained models) 	| https://cloud.google.com/document-ai
+	
+
+LINKS:
+	https://www.ibm.com/topics/natural-language-processing
+	https://aclanthology.org/www.mt-archive.info/10/Hutchins-2014.pdf (The history of machine translation in a nutshell)
+	http://web.stanford.edu/class/cs224n/ (Intro course)
+	https://www.gyansetu.in/blogs/what-is-natural-language-processing/ (Intro to NLP with examples)
